@@ -2,7 +2,7 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>Login Sistem Inventariss</title>
+  <title>Login Sistem Inventaris</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
